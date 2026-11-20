@@ -1,0 +1,11 @@
+__pycache__/
+*.sqlite3
+*.sqlite3-*
+.venv/
+.env
+.env.*
+/features*.json
+/hello.py
+*.db
+*.db-*
+*.pdf
